@@ -1,0 +1,8 @@
+dev-web@devweb-Nitro-AN515-57:~/Downloads/mcino-Introduction-to-Git-and-GitHub$ git branch -vv | tee github-branches
+* bug-fix-revert a8d60c4 [origin/bug-fix-revert] Revert "Fix copyright year typo"
+  bug-fix-typo   44bd7c7 [origin/bug-fix-typo] Fix copyright year typo
+  main           44bd7c7 [origin/main: ahead 1] Fix copyright year typo
+dev-web@devweb-Nitro-AN515-57:~/Downloads/mcino-Introduction-to-Git-and-GitHub$ cat github-branches
+* bug-fix-revert a8d60c4 [origin/bug-fix-revert] Revert "Fix copyright year typo"
+  bug-fix-typo   44bd7c7 [origin/bug-fix-typo] Fix copyright year typo
+  main           44bd7c7 [origin/main: ahead 1] Fix copyright year typo
